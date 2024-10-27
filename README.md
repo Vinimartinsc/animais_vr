@@ -1,3 +1,5 @@
+You can also read this readme in [english](./readme.en.md).
+
 ## Animais VR
 Animais VR foi um minigame experimental desenvolvido em 2018 com o objetivo de ensinar crianças e juniores sobre o mundo animal e suas particularidades. Para jogar, basta ter um smartphone compatível, um controle de videogame bluetooth e o Google Cardboard versão 1 ou oculos compatível.
 
